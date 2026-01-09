@@ -1,5 +1,5 @@
 ---
-title: "Dept 999: Generic Description"
+title: "stat205b"
 subtitle: "UC Berkeley, Spring 2026"
 ---
 
